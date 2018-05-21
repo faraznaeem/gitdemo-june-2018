@@ -14,5 +14,7 @@ Coding is really hard....
 
 In a mad world only the mad are sane!
 
-### 4
-Hello mister this is my hat
+
+### Quote 4
+
+Some people just want to see the world burn..
