@@ -13,3 +13,8 @@ Coding is really hard....
 ### Quote 3
 
 In a mad world only the mad are sane!
+
+
+### Quote 4
+
+Some people just want to see the world burn..
